@@ -29,11 +29,11 @@ body {
 }
 .display-2 {
   font-family: 'Open Sans', sans-serif;
-  font-size: 4.4rem;
+  font-size: 3rem;
   line-height: 1;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 5.5rem;
+  font-size: 3.75rem;
 }
 .display-4 {
   font-family: 'Open Sans', sans-serif;
@@ -45,19 +45,19 @@ body {
 }
 .display-5 {
   font-family: 'Open Sans', sans-serif;
-  font-size: 3rem;
+  font-size: 2.6rem;
   line-height: 1.5;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 3.75rem;
+  font-size: 3.25rem;
 }
 .display-7 {
   font-family: 'Open Sans', sans-serif;
-  font-size: 1rem;
+  font-size: 0.8rem;
   line-height: 1.3;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.25rem;
+  font-size: 1rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -76,9 +76,9 @@ body {
     line-height: calc( 1.1 * (2.4rem + (5 - 2.4) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 3.52rem;
-    font-size: calc( 2.19rem + (4.4 - 2.19) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.3 * (2.19rem + (4.4 - 2.19) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.4rem;
+    font-size: calc( 1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.3 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 1.28rem;
@@ -86,14 +86,14 @@ body {
     line-height: calc( 1.4 * (1.21rem + (1.6 - 1.21) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 2.4rem;
-    font-size: calc( 1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.08rem;
+    font-size: calc( 1.56rem + (2.6 - 1.56) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.56rem + (2.6 - 1.56) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-7 {
-    font-size: 0.8rem;
-    font-size: calc( 1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.64rem;
+    font-size: calc( 0.93rem + (0.8 - 0.93) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (0.93rem + (0.8 - 0.93) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 @media (min-width: 992px) and (max-width: 1400px) {
@@ -103,9 +103,9 @@ body {
     line-height: calc( 1.1 * (2.4rem + (5 - 2.4) * ((100vw - 62rem) / (87 - 62))));
   }
   .display-2 {
-    font-size: 3.52rem;
-    font-size: calc( 2.19rem + (4.4 - 2.19) * ((100vw - 62rem) / (87 - 62)));
-    line-height: calc( 1.3 * (2.19rem + (4.4 - 2.19) * ((100vw - 62rem) / (87 - 62))));
+    font-size: 2.4rem;
+    font-size: calc( 1.7rem + (3 - 1.7) * ((100vw - 62rem) / (87 - 62)));
+    line-height: calc( 1.3 * (1.7rem + (3 - 1.7) * ((100vw - 62rem) / (87 - 62))));
   }
   .display-4 {
     font-size: 1.28rem;
@@ -113,14 +113,14 @@ body {
     line-height: calc( 1.4 * (1.21rem + (1.6 - 1.21) * ((100vw - 62rem) / (87 - 62))));
   }
   .display-5 {
-    font-size: 2.4rem;
-    font-size: calc( 1.7rem + (3 - 1.7) * ((100vw - 62rem) / (87 - 62)));
-    line-height: calc( 1.4 * (1.7rem + (3 - 1.7) * ((100vw - 62rem) / (87 - 62))));
+    font-size: 2.08rem;
+    font-size: calc( 1.56rem + (2.6 - 1.56) * ((100vw - 62rem) / (87 - 62)));
+    line-height: calc( 1.4 * (1.56rem + (2.6 - 1.56) * ((100vw - 62rem) / (87 - 62))));
   }
   .display-7 {
-    font-size: 0.8rem;
-    font-size: calc( 1rem + (1 - 1) * ((100vw - 62rem) / (87 - 62)));
-    line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 62rem) / (87 - 62))));
+    font-size: 0.64rem;
+    font-size: calc( 0.93rem + (0.8 - 0.93) * ((100vw - 62rem) / (87 - 62)));
+    line-height: calc( 1.4 * (0.93rem + (0.8 - 0.93) * ((100vw - 62rem) / (87 - 62))));
   }
 }
 /* Buttons */
@@ -633,12 +633,12 @@ a:hover {
 }
 .form-control {
   font-family: 'Open Sans', sans-serif;
-  font-size: 1rem;
+  font-size: 0.8rem;
   line-height: 1.3;
   font-weight: 400;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.25rem;
+  font-size: 1rem;
 }
 .form-control:hover,
 .form-control:focus {
@@ -647,12 +647,12 @@ a:hover {
 }
 .form-control:-webkit-input-placeholder {
   font-family: 'Open Sans', sans-serif;
-  font-size: 1rem;
+  font-size: 0.8rem;
   line-height: 1.3;
   font-weight: 400;
 }
 .form-control:-webkit-input-placeholder > .mbr-iconfont {
-  font-size: 1.25rem;
+  font-size: 1rem;
 }
 blockquote {
   border-color: #4d4d4d;
@@ -757,7 +757,7 @@ a {
 }
 .cid-uhFwV6o0AV .mbr-overlay {
   background-color: #4a4545;
-  opacity: 0.4;
+  opacity: 0.2;
 }
 @media (min-width: 768px) {
   .cid-uhFwV6o0AV {
@@ -795,10 +795,10 @@ a {
 .cid-uhFwV6o0AV .mbr-text,
 .cid-uhFwV6o0AV .mbr-section-btn {
   text-align: center;
-  color: #ffffff;
+  color: #c0bfbf;
 }
 .cid-uhFwV6o0AV .mbr-section-title {
-  color: #dadada;
+  color: #bdbaba;
   text-align: center;
 }
 .cid-upoAViJE0s {
