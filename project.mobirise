@@ -377,7 +377,8 @@
               "max-width": "800px"
             },
             "P": {
-              "color": "#edefeb"
+              "color": "#edefeb",
+              "text-align": "center"
             },
             ".mbr-section-title": {
               "color": "#edefeb"
