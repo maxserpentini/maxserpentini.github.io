@@ -87,7 +87,7 @@
     "gdpr": false,
     "pwa-switcher": false,
     "screenshot": "screenshot.png",
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
