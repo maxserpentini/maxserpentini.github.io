@@ -1,0 +1,6 @@
+# Allow all search engines to crawl the site
+User-agent: *
+Allow: /
+
+# Point to your sitemap to help indexing
+Sitemap: https://www.maxserpentini.com/sitemap.xml
